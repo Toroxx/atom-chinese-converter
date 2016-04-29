@@ -1,0 +1,6 @@
+{
+    "atom-workspace": {
+        "ctrl-shift-t": "chinese-converter:sc2tc",
+        "ctrl-shift-s": "chinese-converter:tc2sc"
+    }
+}

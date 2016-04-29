@@ -1,0 +1,24 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Traditional -> Simplified",
+            "command": "chinese-converter:tc2sc"
+        }, {
+            "label": "Simplified -> Traditional",
+            "command": "chinese-converter:sc2tc"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "Chinese Converter",
+            "submenu": [{
+                "label": "Traditional -> Simplified",
+                "command": "chinese-converter:tc2sc"
+            }, {
+                "label": "Simplified -> Traditional",
+                "command": "chinese-converter:sc2tc"
+            }]
+        }]
+    }]
+}
