@@ -1,17 +1,16 @@
 {
-    "name": "atom-chinese-converter",
-    "main": "./lib/chinese-converter",
-    "version": "0.1.0",
-    "description": "Traditional Chinese and Simplified Chinese Conversion for Atom",
-    "keywords": [],
-    "activationCommands": {
-        "atom-workspace": "chinese-converter:tc2sc",
-        "atom-workspace": "chinese-converter:sc2tc"
-    },
-    "repository": "https://github.com/toroxx/atom-chinese-converter",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "atom-chinese-converter",
+  "main": "./lib/chinese-converter",
+  "version": "1.0.0",
+  "description": "Traditional Chinese and Simplified Chinese Conversion for Atom",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "chinese-converter:sc2tc"
+  },
+  "repository": "https://github.com/toroxx/atom-chinese-converter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
