@@ -1,6 +1,8 @@
 {
   "name": "atom-chinese-converter",
   "main": "./lib/chinese-converter",
+  "author": "Lawrence Lau <m@torolab.hk>",
+  
   "version": "1.0.0",
   "description": "Traditional Chinese and Simplified Chinese Conversion for Atom",
   "keywords": [],
